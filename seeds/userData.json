@@ -1,17 +1,17 @@
 [
-    {
-      "name": "Martin",
-      "email": "laughs@yahoo.com",
-      "password": "laugh12345"
-    },
-    {
-      "name": "Gina",
-      "email": "love@gmail.com",
-      "password": "love12345"
-    },
-    {
-      "name": "Pam",
-      "email": "honest@hotmail.com",
-      "password": "honest12345"
-    }
-  ]
+  {
+    "name": "Martin",
+    "email": "laughs@yahoo.com",
+    "password": "laugh12345"
+  },
+  {
+    "name": "Gina",
+    "email": "love@gmail.com",
+    "password": "love12345"
+  },
+  {
+    "name": "Pam",
+    "email": "honest@hotmail.com",
+    "password": "honest12345"
+  }
+]
