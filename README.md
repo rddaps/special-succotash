@@ -23,7 +23,7 @@ Use `npm install` for installing necessary dependencies.
 
 ## Usage
 
-Use `npm run seed` to fill tables with test data and `npm start` to launch the app for use
+Use `npm run seed` to fill tables with test data and `npm start` to launch the app for use, or utilize the [live deployment]()
 
 ## Credits
 
